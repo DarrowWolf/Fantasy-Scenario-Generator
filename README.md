@@ -4,4 +4,4 @@ The species are selected from a list of species and the scenario is selected fro
 The generated sentences are saved to a text file.
 
 
-This was made cause I was too lazy to type out each spceies and scenario.. so why not use Phyton to do it for me!
+This was made cause I was too lazy to type out each spceies and scenario.. so why not use Python to do it for me!
