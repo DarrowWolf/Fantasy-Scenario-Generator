@@ -41,7 +41,25 @@ scenarios = ["Leading an army of mythical creatures into battle",
 "Journey to a far-off land to find a lost city of legend",
 "Confrontation with a rival group of adventurers seeking the same goal",
 "Journey through a magical and dangerous maze to reach a hidden treasure",
-"Battle to protect a kingdom from an invading army of orcs or other monstrous creatures"]
+"Battle to protect a kingdom from an invading army of orcs or other monstrous creatures",
+"Journey to the edge of the world to find a rare and powerful ingredient for a magical ritual",
+"Protecting a sacred temple from raiders seeking its ancient relics",
+"Embarking on a perilous journey through a treacherous swamp filled with dangerous creatures and magic",
+"Rescuing a captive prince from a powerful sorceress's castle",
+"Undertaking a quest to find the fabled Sword of the Gods, a weapon said to possess immense power",
+"Battling a rival kingdom for control of a valuable resource, such as a magical spring or enchanted forest",
+"Fighting against a cult that seeks to bring about the end of the world through the use of dark magic",
+"Confronting a powerful demon or evil spirit that is causing destruction and chaos in the land",
+"Journey to a mysterious island to find the source of a strange and powerful magic",
+"Infiltrating a secret society of wizards to uncover their plans and stop their evil schemes",
+"Defending a city against a horde of invading monsters",
+"Escaping from a haunted and cursed castle, filled with ghosts and other supernatural beings",
+"Sneaking into a powerful wizard's tower to steal a valuable spell book",
+"Pursuing a thief who has stolen a powerful magical artifact",
+"Battling a powerful witch who is terrorizing a village and practicing dark magic",
+"Discovering the truth behind a mysterious prophecy and fulfilling its destiny",
+"Navigating treacherous political waters, balancing loyalty to one's own kingdom and alliances with others",
+"Journey to the depths of the underworld to retrieve a powerful artifact from the grasp of the dead"]
 
 def generate_sentence(species, scenarios):
   chosen_species = random.choice(species)
